@@ -1,82 +1,125 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:155E75,100:7C3AED&height=200&section=header&text=Johan%20Monsalve&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20%7C%20AI%20%7C%20Cloud&descAlignY=55&descSize=16)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:155E75,100:7C3AED&height=200&section=header&text=Johan%20Monsalve&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Machine%20Learning%20%7C%20IA%20%7C%20Cloud&descAlignY=55&descSize=16)
 
 <div align="center">
 
 # 👋 ¡Hola! Soy Johan Monsalve
 
-### 💻 Desarrollador de Software | 🎓 Estudiante de Ingeniería de Sistemas
+### 🎓 Estudiante de Ingeniería de Sistemas · 🐍 Python · 🤖 Machine Learning e IA
 
-🚀 Construyendo soluciones con código, automatización, APIs e inteligencia artificial.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=680&lines=Python+%C2%B7+Machine+Learning+%C2%B7+IA;Deep+Learning+con+PyTorch+y+Keras;Automatizaci%C3%B3n+%C2%B7+Datos+%C2%B7+Cloud+(AWS)" alt="Python, Machine Learning e IA"/>
+
+*Systems Engineering student · Python · Machine Learning & AI · Cloud · Bogotá, Colombia 🇨🇴*
 
 [![GitHub](https://img.shields.io/badge/GitHub-JohanMonsalveAbello-181717?style=for-the-badge&logo=github)](https://github.com/JohanMonsalveAbello)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johan-stiven-monsalve-abello-0a61352b1/)
 [![Credly](https://img.shields.io/badge/Credly-Certificaciones-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/johan-stiven-monsalve-abello)
-![Profile Views](https://komarev.com/ghpvc/?username=JohanMonsalveAbello&style=for-the-badge&color=7C3AED&label=VISITAS)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí | About Me
+## 🧑‍💻 Sobre mí
 
-🎓 Tecnólogo en Desarrollo de Software del **SENA** y estudiante de Ingeniería de Sistemas en la **Universidad EAN**.
+🎓 Tecnólogo en Análisis y Desarrollo de Software del **SENA** y estudiante de Ingeniería de Sistemas en la **Universidad EAN**.
 
-🔌 Experiencia en desarrollo e integración de **APIs REST**, operaciones CRUD, bases de datos SQL y automatización de procesos.
+🤖 Me estoy enfocando en **inteligencia artificial y ciencia de datos con Python**: entreno modelos de machine learning y deep learning, y construyo pipelines de datos.
 
-🌐 Desarrollo de proyectos web con **React, JavaScript y PHP**, además de soluciones backend con Python y FastAPI.
+☁️ Certificado en **AWS Cloud Practitioner** y en **IBM AI Engineering**.
 
-☁️ Formación en computación en la nube con **AWS Cloud Practitioner**.
+🔌 Experiencia en desarrollo e integración de **APIs REST**, pruebas con Postman, bases de datos SQL y **automatización de procesos** (Python y Google Apps Script).
 
-🤖 Formación en inteligencia artificial mediante **IBM AI Engineering**.
+🛠️ Mantengo en producción un **bot de análisis estadístico** que corre 24/7 en un servidor Linux.
 
-⚙️ Me interesa construir soluciones útiles, automatizar tareas y desarrollar aplicaciones que resuelvan problemas reales.
+🔭 **Ahora mismo:** reforzando Python, machine learning e IA generativa, y cursando ciencia de datos con Python en **GCI World** (Matsuo Laboratory).
 
-🌱 Siempre aprendiendo, creando proyectos y fortaleciendo mis habilidades como desarrollador.
+---
+
+## ⭐ Proyectos destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JohanMonsalveAbello/aircraft-damage-classification-captioning">
+        <img src="https://raw.githubusercontent.com/JohanMonsalveAbello/aircraft-damage-classification-captioning/main/images/accuracy_curve.png" alt="Curvas de entrenamiento del clasificador de daños" width="100%">
+      </a>
+      <h3>✈️ Aircraft Damage Classification &amp; Captioning</h3>
+      <p>Clasificación de daños en aeronaves (abolladura vs. grieta) con <b>transfer learning (VGG16)</b> y descripciones de imágenes con <b>BLIP</b> integrado en una capa personalizada de Keras.</p>
+      <p><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></p>
+      <p>👉 <a href="https://github.com/JohanMonsalveAbello/aircraft-damage-classification-captioning"><b>Ver proyecto</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JohanMonsalveAbello/champions-league-decision-tree">
+        <img src="https://raw.githubusercontent.com/JohanMonsalveAbello/champions-league-decision-tree/main/images/decision_tree.png" alt="Árbol de decisión de la Champions League" width="100%">
+      </a>
+      <h3>⚽🏆 Champions League: Árbol de Decisión</h3>
+      <p>Clasificador que intenta predecir al campeón a partir de estadísticas de cada temporada. Árbol <b>interpretable</b> con las reglas que aprendió y un análisis crítico de sus límites.</p>
+      <p><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></p>
+      <p>👉 <a href="https://github.com/JohanMonsalveAbello/champions-league-decision-tree"><b>Ver proyecto</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JohanMonsalveAbello/league-of-legends-match-predictor">
+        <img src="https://raw.githubusercontent.com/JohanMonsalveAbello/league-of-legends-match-predictor/main/images/feature_importance.png" alt="Importancia de variables del modelo de League of Legends" width="100%">
+      </a>
+      <h3>🎮 League of Legends Match Predictor</h3>
+      <p>Regresión logística en <b>PyTorch</b> con regularización L2, evaluación con matriz de confusión, ROC y AUC, y búsqueda de hiperparámetros. Incluye un análisis honesto de por qué el modelo no supera al azar.</p>
+      <p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></p>
+      <p>👉 <a href="https://github.com/JohanMonsalveAbello/league-of-legends-match-predictor"><b>Ver proyecto</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JohanMonsalveAbello/logiexpress-rutas-dijkstra">
+        <img src="https://raw.githubusercontent.com/JohanMonsalveAbello/logiexpress-rutas-dijkstra/main/images/mapa_interfaz.png" alt="Interfaz de LogiExpress con el mapa de Bogotá" width="100%">
+      </a>
+      <h3>🚚🗺️ LogiExpress: rutas con Dijkstra</h3>
+      <p>Red vial del norte de Bogotá modelada como <b>grafo ponderado</b> (lista de adyacencia) y <b>algoritmo de Dijkstra</b> con min-heap, con interfaz web y mapa interactivo. Proyecto final de Estructura de Datos.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=leaflet&logoColor=white"/> <img src="https://img.shields.io/badge/Grafos-Dijkstra-0A66C2?style=flat-square"/></p>
+      <p>👉 <a href="https://github.com/JohanMonsalveAbello/logiexpress-rutas-dijkstra"><b>Ver proyecto</b></a></p>
+    </td>
+  </tr>
+</table>
+
+> 💡 Los proyectos de IA son ejercicios del **IBM AI Engineering** y académicos. En cada README explico qué hicieron bien, **dónde fallan** y cómo los mejoraría.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-### 💬 Lenguajes de programación
+### 🤖 Inteligencia artificial y ciencia de datos
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 💬 Lenguajes y desarrollo web
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,php,cs,html,css" alt="Python, JavaScript, PHP, C Sharp, HTML y CSS"/>
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,bootstrap" alt="Python, JavaScript, PHP, HTML, CSS y Bootstrap"/>
 </p>
 
-### 🎨 Frontend y desarrollo web
+### 🗄️ Bases de datos y APIs
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,vite,figma" alt="React, Bootstrap, Vite y Figma"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postman" alt="MySQL y Postman"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 </p>
 
-### ⚙️ Backend y APIs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,dotnet,flask,postman,swagger" alt="FastAPI, .NET, Flask, Postman y Swagger"/>
-</p>
-
-### 🗄️ Bases de datos
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" alt="MySQL, PostgreSQL, SQLite y MongoDB"/>
-</p>
-
-🔹 También tengo experiencia trabajando con **SQL Server**.
-
-### ☁️ Cloud, DevOps y herramientas
+### ☁️ Cloud y herramientas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode" alt="AWS, Docker, Git, GitHub, Linux y Visual Studio Code"/>
 </p>
 
-### 🤖 Inteligencia artificial y Machine Learning
+### 🌱 Aprendiendo
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,python" alt="TensorFlow, Keras y Python"/>
-</p>
-
-![IBM AI Engineering](https://img.shields.io/badge/IBM-AI%20Engineering-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![React](https://img.shields.io/badge/React-en%20estudio-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-en%20estudio-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -94,40 +137,27 @@
 
 </div>
 
-- ☁️ **AWS Certified Cloud Practitioner:** fundamentos de computación en la nube, servicios de AWS, seguridad y modelos de precios.
-- 🧠 **IBM AI Engineering:** formación en inteligencia artificial y tecnologías relacionadas con el desarrollo de modelos.
+- ☁️ **AWS Certified Cloud Practitioner** (octubre 2026): fundamentos de la nube, servicios de AWS, seguridad y modelos de precios.
+- 🧠 **IBM AI Engineering Professional Certificate** (noviembre 2025): machine learning con Python, deep learning y modelos Transformer.
 
 🔗 **[Ver mis credenciales en Credly](https://www.credly.com/users/johan-stiven-monsalve-abello)**
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Otros proyectos
 
-💡 Estos son algunos de mis repositorios públicos. Estoy trabajando en mejorar su documentación para facilitar la exploración de cada proyecto.
+Repositorios de desarrollo web y de mi formación técnica y tecnológica (estoy mejorando su documentación):
 
-### ⚛️ Desarrollo web y frontend
+| Proyecto | Descripción |
+|---|---|
+| [⚛️ REACT](https://github.com/JohanMonsalveAbello/REACT) | Proyectos y prácticas de desarrollo con React. |
+| [📱 REACTNATIVEANDROID](https://github.com/JohanMonsalveAbello/REACTNATIVEANDROID) | Proyecto de desarrollo para dispositivos Android con React Native. |
+| [📦 REFRISOFT](https://github.com/JohanMonsalveAbello/REFRISOFT) | Sistema para gestionar el inventario de refrigerios del programa PAE. |
+| [🛒 TIENDA](https://github.com/JohanMonsalveAbello/TIENDA) | Aplicación de una tienda. |
+| [🧑‍🎓 PROYECTOSENA](https://github.com/JohanMonsalveAbello/PROYECTOSENA) | Proyectos de mi formación en el SENA. |
+| [🎄 REACTNAVIDE](https://github.com/JohanMonsalveAbello/REACTNAVIDE) | Proyecto web de temática navideña. |
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [⚛️ REACT](https://github.com/JohanMonsalveAbello/REACT) | Proyectos y prácticas de desarrollo con React. | React, JavaScript |
-| [📱 REACTNATIVEANDROID](https://github.com/JohanMonsalveAbello/REACTNATIVEANDROID) | Proyecto de desarrollo para dispositivos Android. | React Native |
-| [🎄 REACTNAVIDE](https://github.com/JohanMonsalveAbello/REACTNAVIDE) | Proyecto web de temática navideña. | JavaScript, React según implementación |
-
-### 🧩 Sistemas y aplicaciones
-
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [📦 REFRISOFT](https://github.com/JohanMonsalveAbello/REFRISOFT) | Sistema orientado a gestionar el inventario de refrigerios del programa PAE. | Según implementación del repositorio |
-| [🧑‍🎓 PROYECTOSENA](https://github.com/JohanMonsalveAbello/PROYECTOSENA) | Proyectos realizados durante mi formación técnica y tecnológica. | Varias |
-| [🛒 TIENDA](https://github.com/JohanMonsalveAbello/TIENDA) | Proyecto de aplicación relacionado con una tienda. | Según implementación del repositorio |
-
-### 🐍 Backend, APIs y automatización
-
-Me interesa desarrollar APIs REST, automatizar procesos y crear servicios backend con Python y FastAPI.
-
-🔎 [Explorar mis repositorios](https://github.com/JohanMonsalveAbello?tab=repositories)
-
-> Los proyectos de FastAPI y PHP se deben enlazar individualmente una vez seleccionemos sus repositorios concretos y comprobemos su contenido.
+🔎 [Explorar todos mis repositorios](https://github.com/JohanMonsalveAbello?tab=repositories)
 
 ---
 
@@ -137,9 +167,7 @@ Me interesa desarrollar APIs REST, automatizar procesos y crear servicios backen
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=JohanMonsalveAbello&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanMonsalveAbello&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más utilizados"/>
-
-<img src="https://streak-stats.demolab.com?user=JohanMonsalveAbello&theme=tokyonight&hide_border=true" alt="Actividad y racha de GitHub"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanMonsalveAbello&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Lenguajes más utilizados"/>
 
 </div>
 
@@ -147,20 +175,18 @@ Me interesa desarrollar APIs REST, automatizar procesos y crear servicios backen
 
 ## 🎯 En qué quiero seguir creciendo
 
-- 🐍 Desarrollo backend con Python y FastAPI.
-- 🔌 Diseño, desarrollo e integración de APIs REST.
-- ⚛️ Desarrollo frontend con React y JavaScript.
-- 🗄️ Bases de datos relacionales y optimización SQL.
-- 🤖 Desarrollo de aplicaciones basadas en inteligencia artificial.
-- ☁️ Arquitectura cloud y servicios de AWS.
-- 🐳 Contenedores y despliegue de aplicaciones.
-- ⚙️ Automatización de procesos y buenas prácticas de desarrollo.
+- 🧠 **Deep learning** con PyTorch y **IA generativa** (modelos de lenguaje y de visión).
+- 🐍 Python para datos y machine learning: más datos reales, validación cruzada y mejores métricas.
+- 🔌 **APIs con FastAPI** para exponer modelos de machine learning.
+- ☁️ **AWS** y despliegue de modelos en la nube.
+- 🐳 Contenedores con **Docker** y buenas prácticas de desarrollo.
+- ⚛️ Frontend con React.
 
 ---
 
 ## 🤝 Conectemos
 
-Siempre estoy interesado en aprender, compartir conocimientos y participar en proyectos que representen nuevos retos.
+Me interesa aprender, compartir conocimiento y participar en proyectos de **inteligencia artificial y datos**.
 
 <div align="center">
 
